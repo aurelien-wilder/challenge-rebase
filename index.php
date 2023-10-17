@@ -7,3 +7,4 @@ echo 'Quatrième modification sur develop';
 echo 'Nouvelle fonctionnalité ajoutée';
 echo 'Amélioration de la fonctionnalité';
 echo 'Cinquième modification sur develop après la fusion';
+echo 'Sixième modification sur develop après la fusion';
